@@ -1,0 +1,6 @@
+xterm*termName: xterm-256color
+XTerm*locale: true
+XTerm*foreground: rgb:c6/c6/c6
+XTerm*background: rgb:2e/2d/2b
+XTerm*faceName: Inconsolata:style=Medium:size=10.5:antialias=true
+XTerm*VT100.translations: #override <Btn1Up>: select-end(PRIMARY, CLIPBOARD, CUT_BUFFER0)
